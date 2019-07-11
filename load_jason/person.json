@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "shashan ram",
+        "age"  : "20",
+        "height" : "55",
+        "gender" : "male",
+        "hair color" : "black"  
+    },
+    {
+        "name" : "akshy",
+        "age"  : "20",
+        "height" : "55",
+        "gender" : "male",
+        "hair color" : "black"  
+    },
+    {
+        "name" : "veeneth pai",
+        "age"  : "20",
+        "height" : "55",
+        "gender" : "male",
+        "hair color" : "black"  
+    }
+]
